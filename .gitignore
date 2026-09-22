@@ -1,0 +1,9 @@
+# Local personal resume — never commit
+/main.local.typ
+/main.local.pdf
+*.local.typ
+*.local.pdf
+
+# Personal photo
+/avatar.png
+/images/avatar.png
